@@ -10,4 +10,7 @@ print("Nama Saya    : ",My_Name)
 print("Asal Saya    : ",place)
 print("Buah Favorit : ",b1,b2,b3,b4)
 
-print("ALL DATA VARIABLE\n"+My_Name+place+b1+b2+b3+b4+"\n")
+def myfunc():
+    print("ALL DATA VARIABLE\n"+My_Name+place+b1+b2+b3+b4+"\n")
+
+myfunc()
