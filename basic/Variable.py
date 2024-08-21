@@ -1,4 +1,4 @@
-x = "Fathurrahman Hardi Ar-rasyid"
+My_Name = "Fathurrahman Hardi Ar-rasyid"
 y = "Indonesia"
 
 print(x)
