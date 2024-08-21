@@ -1,5 +1,8 @@
-My_Name = "Fathurrahman Hardi Ar-rasyid"
-y = "Indonesia"
+My_Name = "Fathurrahman"
+place = "Bandung"   
+buah = ["Apel","Mangga","Anggur","Pir"]
+b1,b2,b3,b4 = buah
 
-print(x)
-print(y)
+print("Nama Saya    : ",My_Name)
+print("Asal Saya    : ",place)
+print("Buah Favorit : ",b1,b2,b3,b4)
